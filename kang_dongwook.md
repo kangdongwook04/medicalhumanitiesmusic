@@ -17,3 +17,6 @@ Type: Classic
 Example: Similar disease is described in Alban Berg's 1925 film [*Wozzeck*](jang_geunyeong.md). The film contains the contents of Mental illness.
 
 <img src="./kang_dongwook_img.png" alt="img depicting Alzheimer's disease" style="width:25%;" />
+Song I'd like played at my funeral: "Complicated" by Avril Lavigne.
+Reason: The meaningful lyrics, which reflect on one's attitude toward life, have become a personal motto for me. Even if others may not live by it, I hope they at least take a moment to reflect on it.
+https://youtu.be/5NPBIwQyPWE?si=OP6TFOx5wCybOyxZ
